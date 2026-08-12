@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berkturkcan24.github.io/reference-cu6lfd/sitemap.xml
